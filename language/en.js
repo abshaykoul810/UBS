@@ -24,7 +24,7 @@ var Translations = {
 
     "PreparedForText": "Prepared for",
 
-    "CopyrightText": "Copyright 2017 CIMB Bank Berhad",
+    "CopyrightText": "Copyright 1998 - 2018 UBS",
     "PoweredByFooterText": "Powered by",
     "HelpFooterText": "Help",
     "PrivacyPolicyFooterText": "Privacy Policy",
