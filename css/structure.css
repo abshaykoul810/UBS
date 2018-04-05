@@ -41,6 +41,12 @@ sub {
 .header__logo {
     padding: 60px 10px 20px 10px;
     max-width: 100%;
+    top: -10px;
+    height: 3em;
+    width: 10em;
+    bottom: 8px;
+    position: relative;
+    right: 2%;
 }
 
 .header__text {
