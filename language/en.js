@@ -83,7 +83,7 @@ var Translations = {
     "PromoSettings": {
         "promo1": {
             "trackingName": "promo1",
-            "url": "https://www.cimbpreferred.com/",
+            "url": "https://www.ubs.com/sg/en.html",
             "label": "Promo (Top)",
             "desktopImage": "./images/promo_portrait.png",
             "mobileImage": "./images/promo_landscape.png"
