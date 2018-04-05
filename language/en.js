@@ -50,12 +50,12 @@ var Translations = {
             "icon": "contact"
         },
         "button2": {
-            "url": "https://www.cimb.com",
+            "url": "https://www.ubs.com/sg/en.html",
             "label": "Website",
             "icon": "website"
         },
         "button3": {
-            "url": "mailto:callcentre@cimb.com?Subject=EngageOne%23Video%20Support%20Request",
+            "url": "mailto:customercare@ubs.com?Subject=EngageOne%23Video%20Support%20Request",
             "label": "Email",
             "icon": "email"
         },
