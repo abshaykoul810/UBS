@@ -55,7 +55,7 @@ var Translations = {
             "icon": "website"
         },
         "button3": {
-            "url": "mailto:customercare@ubs.com?Subject=EngageOne%23Video%20Support%20Request",
+            "url": "mailto:paul.fulcher@ubs.com?Subject=EngageOne%23Video%20Support%20Request",
             "label": "Email",
             "icon": "email"
         },
