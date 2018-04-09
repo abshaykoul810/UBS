@@ -110,7 +110,7 @@ var Translations = {
             ]
         },
         {
-            "label": "Risk Appetite",
+            "label": "Portfolio",
             "states": [
                 {
                     "cardId": "52e59793",
@@ -119,7 +119,7 @@ var Translations = {
              ]
         },
         {
-          "label": "Appointment",
+          "label": "Profit/Loss",
             "states": [
                 {
                     "cardId": "9eef0155",
@@ -132,7 +132,7 @@ var Translations = {
              ]
         }, 
         {
-          "label": "Offers",
+          "label": "Top/Bottom Stocks",
             "states": [
                 {
                     "cardId": "b2243802",
