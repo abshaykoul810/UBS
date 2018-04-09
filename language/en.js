@@ -136,10 +136,6 @@ var Translations = {
                 {
                     "cardId": "193518df",
                     "width": 5
-                },
-                {
-                    "cardId": "9a6c6607",
-                    "width": 5
                 }
              ]
         }, 
@@ -147,11 +143,11 @@ var Translations = {
           "label": "Top/Bottom Stocks",
             "states": [
                 {
-                    "cardId": "0870c3dc",
+                    "cardId": "9a6c6607",
                     "width": 10
                 },
                 {
-                    "cardId": "952b9c33",
+                    "cardId": "0870c3dc",
                     "width": 10
                 }
             ]
@@ -160,8 +156,12 @@ var Translations = {
             "label": "Thanks",
             "states": [
                 {
+                    "cardId": "952b9c33",
+                    "width": 15
+                },
+                {
                     "cardId": "End",
-                    "width": 20
+                    "width": 5
                 }
             ]
         },
