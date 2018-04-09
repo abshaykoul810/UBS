@@ -135,7 +135,7 @@ var Translations = {
                 },
                 {
                     "cardId": "193518df",
-                    "width": 5
+                    "width": 10
                 }
              ]
         }, 
