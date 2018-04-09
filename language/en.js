@@ -114,7 +114,15 @@ var Translations = {
             "states": [
                 {
                     "cardId": "ef6e143f",
-                    "width": 20
+                    "width": 10
+                },
+                {
+                    "cardId": "1c9a1e37",
+                    "width": 5
+                },
+                {
+                    "cardId": "2732c312",
+                    "width": 5
                 }
              ]
         },
@@ -122,12 +130,16 @@ var Translations = {
           "label": "Profit/Loss",
             "states": [
                 {
-                    "cardId": "9eef0155",
+                    "cardId": "d8832380",
                     "width": 10
                 },
                 {
-                    "cardId": "4164151c",
-                    "width": 10
+                    "cardId": "193518df",
+                    "width": 5
+                },
+                {
+                    "cardId": "9a6c6607",
+                    "width": 5
                 }
              ]
         }, 
@@ -135,8 +147,12 @@ var Translations = {
           "label": "Top/Bottom Stocks",
             "states": [
                 {
-                    "cardId": "b2243802",
-                    "width": 20
+                    "cardId": "0870c3dc",
+                    "width": 10
+                },
+                {
+                    "cardId": "952b9c33",
+                    "width": 10
                 }
             ]
         },
